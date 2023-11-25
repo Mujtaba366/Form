@@ -6,7 +6,7 @@ from email.message import EmailMessage
 # import ssl
 # import smtplib
 
-st.set_page_config(page_title="Making website form", page_icon="😀")
+st.set_page_config(page_title="Making website form", page_icon="🏢")
 
 def send_gmail(contact_gmail, purpose_of_the_website, programming_languages, tabs, gmail, website_color, websit_look, money, name):
     gmail_sender = "godofwar9999991@gmail.com"
